@@ -14,3 +14,5 @@ var krystian = {
 
 kaja.przedstawOsobe();
 krystian.przedstawOsobe();
+
+//klasa to funkcja do tworzenia nowych obiektów
